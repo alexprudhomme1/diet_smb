@@ -1,2 +1,2 @@
 # diet_smb
-The data and code associated with Chapter 3 of this MSc thesis are available for review and analysis. 
+diet_smb.R – R script used to replicate all analysis and figures in main text and appendices. See comments at top for directions prior to running.
